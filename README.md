@@ -10,7 +10,7 @@
 <p>This map is in sattelite mode. A future improvement would be to add different mode options for the user</p>
 
 ## License Information
-<p>Licensed under the <a href="https://github.com/avivafischer/Eye-Movement/blob/main/LICENSE">MIT License</a></p>
+<p>Licensed under the <a href="https://github.com/avivafischer/Bus-Tracker/blob/main/LICENSE">MIT License</a></p>
 
 <br>
 
