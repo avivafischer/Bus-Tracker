@@ -14,4 +14,4 @@
 
 <br>
 
-<p><a href="https://avivafischer.github.io/Bus-Tracker/">View Deployment</a></p>
+<p><a href="https://github.com/avivafischer/Bus-Tracker/blob/main/LICENSE">View Deployment</a></p>
