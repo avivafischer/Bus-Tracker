@@ -1,4 +1,4 @@
-# Bus-Tracker
+# Bus Tracker
 
 ## Description
 <p>This is an animated map showing the stops between MIT and Harvard. The map has a marker that moves across the map, showing the individual stops</p>
